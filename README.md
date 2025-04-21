@@ -38,7 +38,7 @@ A feature-rich Discord bot with moderation, music, games, and utility commands.
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-YourName%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/880010973216387193)
+[![Discord](https://img.shields.io/badge/Discord-3mran%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/880010973216387193)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3mran77)
 [![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
 [![Yousube](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
@@ -48,5 +48,5 @@ A feature-rich Discord bot with moderation, music, games, and utility commands.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=3mran77&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
