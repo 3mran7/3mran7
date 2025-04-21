@@ -2,7 +2,7 @@
 # Hi there 👋, I'm [Imran Sameeer]
 
 <div align="center">
-  <img src="[YOUR_DISCORD_AVATAR_URL](https://images-ext-1.discordapp.net/external/jDshiXGuWtrMDCHfutrFYrVV_GPCR32hOeb4nB-uPGY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/880010973216387193/7eed40114f111eb2893284859b7163ac.webp?format=webp)" alt="Discord Avatar" width="150" style="border-radius:50%;"/>
+  <img src="[[YOUR_DISCORD_AVATAR_URL](https://images-ext-1.discordapp.net/external/jDshiXGuWtrMDCHfutrFYrVV_GPCR32hOeb4nB-uPGY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/880010973216387193/7eed40114f111eb2893284859b7163ac.webp?format=webp)](https://media.discordapp.net/attachments/1359148271536312440/1363971117856854187/7eed40114f111eb2893284859b7163ac.png?ex=6807f897&is=6806a717&hm=66db5612aa10de5cbe1fcd9d8efd807becb8106e95687ce0663bcac08dbd1941&=&format=webp&quality=lossless)" alt="Discord Avatar" width="150" style="border-radius:50%;"/>
   <br/>
   <img src="https://img.shields.io/badge/Discord-YourName%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
