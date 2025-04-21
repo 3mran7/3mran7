@@ -14,7 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
-![Github](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -41,7 +41,7 @@ A feature-rich Discord bot with moderation, music, games, and utility commands.
 [![Discord](https://img.shields.io/badge/Discord-3mran%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/880010973216387193)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3mran77)
 [![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
-[![Yousube](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
+[![Youtube](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
 
 </div>
 
