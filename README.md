@@ -1,6 +1,6 @@
 
 
-</h1> <a href="https://discord.com/users/880010973216387193"> <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" /> </a>
+</h1> <a href="https://discord.com/users/880010973216387193"> <img src="https://lanyard-profile-readme.vercel.app/api/880010973216387193" align="right" /> </a>
 
 ## 🛠️ Tech Stack
 
