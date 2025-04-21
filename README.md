@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="👋 Hi there! I'm (your name)" />
-</h1>
+# 👋 Hi there! I'm 3mran
 
 <div align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
