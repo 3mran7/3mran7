@@ -1,12 +1,8 @@
-<h1 align="left">
-  <img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
-</h1>
+make langs like badges that i know for github README.md <h1 align="left">
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID" align="right" />
-</a>
-
-### 16, aspiring full-stack TypeScript developer.
+</h1> <a href="https://discord.com/users/705665813994012695"> <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" /> </a>
+16, aspiring full-stack TypeScript developer.
 
 <div align="left">
 
