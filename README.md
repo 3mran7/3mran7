@@ -32,9 +32,3 @@
 [![Youtube](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=3mran77&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
