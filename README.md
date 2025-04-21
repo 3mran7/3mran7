@@ -1,14 +1,5 @@
 # 👋 Hi there! I'm 3mran
 
-<div align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://lanyard-profile-readme.vercel.app/api/YOUR_DISCORD_ID" alt="Discord Presence" />
-  </a>
-</div>
-
-## 👨‍💻 About Me
-
-Full-Stack Developer passionate about creating efficient, scalable applications and Discord bots. I love exploring new technologies and building innovative solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -42,15 +33,8 @@ Full-Stack Developer passionate about creating efficient, scalable applications 
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-YourName%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/3mran77)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3mran77)
+[![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://mayorstudio.xyz)
 
 </div>
-
-## 📺 Latest YouTube Videos
-
-## 📊 YouTube Stats
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white)
