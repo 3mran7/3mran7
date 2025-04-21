@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1359148271536312440/1363971117856854187/7eed40114f111eb2893284859b7163ac.png" width="200" height="200" style="border-radius:50%"/>
+  <img src="[https://media.discordapp.net/attachments/1359148271536312440/1363971117856854187/7eed40114f111eb2893284859b7163ac.png](https://media.discordapp.net/attachments/1359148271536312440/1363971117856854187/7eed40114f111eb2893284859b7163ac.png?ex=6807f897&is=6806a717&hm=66db5612aa10de5cbe1fcd9d8efd807becb8106e95687ce0663bcac08dbd1941&=&format=webp&quality=lossless)" width="200" height="200" style="border-radius:50%"/>
   
   # Discord Profile
 
