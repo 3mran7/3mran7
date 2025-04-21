@@ -24,16 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mran77&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
-### 🤖 Discord Bot
-A feature-rich Discord bot with moderation, music, games, and utility commands.
-- Built with Discord.js and Node.js
-- MongoDB for data persistence
-- Slash commands support
-- Prefix commands support
-
-
 ## 🤝 Connect with Me
 
 <div align="center">
