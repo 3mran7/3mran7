@@ -42,13 +42,15 @@ Full-Stack Developer passionate about creating efficient, scalable applications 
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-YourName%231234-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/YOUR_CHANNEL)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Website](https://img.shields.io/badge/Website-Visit-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
 
 </div>
 
----
+## 📺 Latest YouTube Videos
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+## 📊 YouTube Stats
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white)
