@@ -1,5 +1,5 @@
 make langs like badges that i know for github README.md <h1 align="left">
-<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm Conrad" />
+<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/header.svg" alt="Hi there, I'm 3mran" />
 
 </h1> <a href="https://discord.com/users/705665813994012695"> <img src="https://lanyard-profile-readme.vercel.app/api/705665813994012695" align="right" /> </a>
 16, aspiring full-stack TypeScript developer.
